@@ -1,0 +1,6 @@
+﻿  ProjectParking.cpp
+C:\Users\vukdi\OneDrive\Desktop\Fakultet\Racunarska grafika\ProjectParking\ProjectParking\ProjectParking.cpp(42,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\vukdi\OneDrive\Desktop\Fakultet\Racunarska grafika\ProjectParking\ProjectParking\ProjectParking.cpp(288,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\vukdi\OneDrive\Desktop\Fakultet\Racunarska grafika\ProjectParking\ProjectParking\ProjectParking.cpp(288,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\vukdi\OneDrive\Desktop\Fakultet\Racunarska grafika\ProjectParking\ProjectParking\ProjectParking.cpp(394,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  ProjectParking.vcxproj -> C:\Users\vukdi\OneDrive\Desktop\Fakultet\Racunarska grafika\ProjectParking\x64\Debug\ProjectParking.exe
